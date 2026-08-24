@@ -1,0 +1,18 @@
+Zadatak 1
+Korisnik unosi broj mjeseca  - 12
+Program ispisuje ime mjeseca na Hrvatskom.
+
+Zadatak2:
+Korisnik unosi jedno slovo D C H P
+ASCII tabela
+Program ispisuje, dog, cat, horse, parrot
+za sve osttalo unknown animal
+
+3. korisnik unosi operator : + - * /
+Korisnik unosi dva broja, kroz switch konstrukciju izvrsi operaciju i primjeni nad unesenim
+
+4. Korisnik unosi ime drzave, program ispisuje glavni grad
+
+5. Korisnik unosi ime dana na engleskom program ispisuje ili radni dan ili vikend
+
+6.
