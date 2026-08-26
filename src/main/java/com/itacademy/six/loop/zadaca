@@ -1,7 +1,7 @@
 1. Pomocu do while ispisi sve brojeve od 1 do 10
 
 2. Korisnik unosi broj
-ako je negativan -> trazi unos ponovo u suprotno mzavrsi ostale linije koda
+ako je negativan -> trazi unos ponovo u suprotnom zavrsi ostale linije koda
 
 3. Korisnik unosu broj N
 program ispisuje brojeve od N do 1 pomocu do while
@@ -20,4 +20,4 @@ prikazuje suma svih prethodno unesenih i program zavrsava
  6. program generira slucajan broj od 1 do 20.
  Korisnik unosi sve dok ne pogodi.
 
- 7. Dodatak na 6, Korisnik ima pravo 5 puta da pogada, i put program ga izbacuje
+ 7. Dodatak na 6, Korisnik ima pravo 5 puta da pogada, i 6put program ga izbacuje
