@@ -1,0 +1,9 @@
+zadatk1.
+
+Petar Pan je pojeo pet plavih sljiva.
+Program treba da izbroji koliko se puta karakter P ili p nalaziu recenici.
+program je case insensitive.
+
+Zadatak2
+Upgrade na zadatak 1, gdje pusta se korisnika da unese slovo. Dakle nije poznato da li je slovo mali
+ili veliko, a program je i dalje case insensitive.
